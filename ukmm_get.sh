@@ -18,9 +18,8 @@ else
 	exit 1
 fi
 
-VERSION="0.17.0-2"
-# EXEC_URL="https://github.com/NiceneNerd/ukmm/releases/download/v${VERSION}/${UKMM}.tar.xz"
-EXEC_URL="https://github.com/emiyl/ukmm-build/releases/download/v${VERSION}/${UKMM}.tar.xz"
+VERSION="0.17.1"
+EXEC_URL="https://github.com/NiceneNerd/ukmm/releases/download/v${VERSION}/${UKMM}.tar.xz"
 ICON_URL="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/7d36c7ff9a3d7cc45133e54fb6cbbe20_UKMM_-_Zelda_-_Breath_of_the_Wild.icns"
 
 # Create app bundle structure
